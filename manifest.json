@@ -1,0 +1,12 @@
+{
+  "addons": [
+    {
+      "id": "refactor",
+      "mod_version": "3",
+      "name": "refactor",
+      "path": ".",
+      "type": "plugin",
+      "version": "0.1"
+    }
+  ]
+}
